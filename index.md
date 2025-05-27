@@ -1,16 +1,16 @@
 ---
 layout: home
-title: Ta'quavian Johnson
-description: CEAMLS SAIRI Summer 2025 Research Website
+title: Michelle Oladele-Kuyoro
+description: Michelle Oladele-Kuyoro CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
+motto: "The future belongs to those who believe in the beauty of their dreams"
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
-  - "🔬 Research: AI-Powered Wearables + Signal Processing"
-  - "📍 Based in Atlanta, GA"
+  - "🎓 Sophomore, Computer Science @ Morgan State University"
+  - "🔬 Research: Non-Contact AI-Drowsiness Detection System for Safe Driving"
+  - "📍 Based in Baltimore, MD"
   - "🚀 Passionate about building smart systems for real-world impact"
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
+linkedin: https://www.linkedin.com/in/michelle-oladele-kuyoro/
 image: /assets/images/me.jpg
 ---
