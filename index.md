@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about building smart systems for real-world impact"
 
 linkedin: https://www.linkedin.com/in/michelle-oladele-kuyoro/
-image: /assets/images/me.jpg
+image: assets/images/Me.jpeg
 ---
