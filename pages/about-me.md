@@ -19,7 +19,7 @@ about:
     - icon: 🎧
       title: Listening to Music 
       description: I enjoy listening to music whenever I am working. My favorite artist is NF.
-    - icon:🍪
+    - icon: 🍪
       title: Baking
       description: I enjoy baking and trying out new recipes in my free time.
     - icon: 🎮
