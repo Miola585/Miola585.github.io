@@ -3,34 +3,32 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Neural Engineering & Assistive Robotics
-project_title: "NeuroLink Assist: Adaptive Robotics through Brain Signal Decoding"
+subtitle: Machine Learning and Computer Vision
+project_title: "Non-Contact AI-Drowsiness Detection System for Safe Driving"
 
 problem: |
-  Individuals with severe motor disabilities often struggle with basic tasks that could be aided by robotic assistance. However, there is a lack of accessible and adaptive systems that respond naturally to the user's intent via brain-computer interfaces.
+  Driver drowsiness is a critical issue contributing to accidents, severe crashes, and fatalities on highways. Existing solutions often require physical contact or are not efficient enough for real-time monitoring. There is a need for a non-contact, reliable system that can accurately detect driver drowsiness and provide timely alerts.
 
-  This project seeks to explore how neural signals can be translated into reliable control commands for assistive robots, improving autonomy and quality of life.
 
 approach: |
-  The project follows a four-phase pipeline:
+  The project inclues creating and enhancing:
 
-  - Collect EEG data during imagined movements using a non-invasive BCI headset
-  - Train machine learning models to decode intent from neural patterns
-  - Integrate real-time signal classification with a robotic arm interface
-  - Evaluate system performance in simulated daily activities (e.g., object grasping, pointing)
-
-  Open-source tools such as OpenBCI, Python (MNE, Scikit-learn), and ROS (Robot Operating System) will be used to prototype the system.
+  - Image and Video Collection and Analysis: Use cameras to capture video feeds of the driver’s face and eye movements. Employ computer vision to analyze the collected images and videos for signs of drowsiness
+  - Deep Learning Predicitve Model: Using Machine Learning Algorithms to develop predicitve models and detect drowsiness.
+  - Real-Time Monitoring Systems: Using real time monitoring system to capture video feeds of the driver. This system will process images and videos to detect early drowsiness and trigger an alert
+  - Alert System: Develop an alert system to alert driver through audio cues when signs of drowsiness are detected
+  
 
 outcome: |
-  By the end of the program, the project will result in a working prototype of a BCI-controlled robotic arm and a poster presentation outlining the system architecture, training pipeline, and evaluation metrics. Insights from the user study will inform future directions in adaptive assistive technology.
+  By the end of the program, the project will result develop a functional Non-Contact AI-Based drowsiness detection system.
 
 final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
 
 grad_mentor:
-  name: Jamal Carter
-  linkedin: https://www.linkedin.com/in/jamal-carter
+  name: Pelumi Abiodun
+  linkedin: https://www.linkedin.com/in/abiodunpo/
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  linkedin: https://www.linkedin.com/in/dr-elijah-freeman
+  name: Dr. Oludare Owolabi
+  linkedin: https://www.linkedin.com/in/oludare-owolabi-pe-mchit-reg-engr-coren-6766a299/
 ---
