@@ -20,7 +20,7 @@ approach: |
   
 
 outcome: |
-  By the end of the program, the project will result develop a functional Non-Contact AI-Based drowsiness detection system.
+  By the end of the program, the project will result develop a functional Non-Contact AI-Based drowsiness detection system. This project aims to develop an effective alert system that will utilize image and video analysis, machine and deep learning models, and real time monitoring to detect drowsiness in drivers. By implementing this system, this project will ensure driver safety and reduce the risk of drowsiness related accidents. 
 
 final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
 
